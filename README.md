@@ -1,5 +1,6 @@
-# COMP-1510-A3-Yahtzee
+# Yahtzee
+> text-based Yahtzee simulator
 
-Jasper Zhou   
+<img src="https://github.com/CheesyPudding/Yahtzee-Text-Game/blob/main/preview.PNG" width="40%">
 
-A01235376
+BCIT COMP 1510 finals Hackathon.
